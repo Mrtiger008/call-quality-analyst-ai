@@ -20,7 +20,7 @@ This is an open-source AI tool that listens to call recordings and behaves like 
 ## 🛠️ Setup
 
 ```bash
-git clone https://github.com/your-username/call-quality-analyst-ai.git
+git clone https://github.com/Mrtiget008/call-quality-analyst-ai.git
 cd call-quality-analyst-ai
 pip install -r requirements.txt
 python main.py
