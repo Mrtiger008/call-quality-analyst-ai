@@ -1,0 +1,7 @@
+openai-whisper
+ffmpeg-python
+torchaudio
+textblob
+transformers
+sentencepiece
+torch
